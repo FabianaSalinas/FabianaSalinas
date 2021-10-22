@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Uma aprensentação sua com seu nome e a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento.
+  Olá me chamo <strong>Fabiana Salinas</strong>.<br>
+  no momento sou uma Programadora em desenvolvimento
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>JavaScript, HTML, CSS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>React, Node.js, Bootstrap, ExpressJS.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato: ⤵️
 </p>
 
 <p align="left">
