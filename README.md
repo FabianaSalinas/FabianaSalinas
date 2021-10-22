@@ -1,9 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Uma aprensentação sua com seu nome e a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento.
-</p>
+import Desenvolvedor from 'FabianaSalinas';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Fabiana Salinas';
+  area    = 'Front-end em desenvolvimento';
+  local = 'Brasil';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
 
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
