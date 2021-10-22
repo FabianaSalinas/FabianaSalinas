@@ -9,18 +9,12 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+  linguagens  = ['JS, HTML, CSS'];
+  bibliotecas  = ['NODE.JS, REACT,  JQUERY';
+  frameworks = ['EXPRESSJS, BOOTSTRAP];
 }
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
