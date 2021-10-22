@@ -1,20 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-import Desenvolvedor from 'FabianaSalinas';
+<p align="left"> 
+  Uma aprensentação sua com seu nome e a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento.
+</p>
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Fabiana Salinas';
-  area    = 'Front-end em desenvolvimento';
-  local = 'Brasil';
-}
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['JS, HTML, CSS'];
-  bibliotecas  = ['NODE.JS, REACT,  JQUERY';
-  frameworks = ['EXPRESSJS, BOOTSTRAP];
-}
-
-
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
