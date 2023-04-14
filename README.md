@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, Node.js, Bootstrap, ExpressJS.</strong>
+  💼 Ferramentas: <strong>React, Node.js, Bootstrap, ExpressJS, TypeScript.</strong>
 </p>
 
 <p align="left">
